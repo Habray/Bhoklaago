@@ -1,0 +1,5 @@
+Three things needs working with redux and redux-thunk
+folder- action (CRUD operation), reducers
+file - store.js
+
+axios - for API operation
